@@ -1,1 +1,1 @@
-# Type-with-a-Swipe-A-Gesture-Keyboard
+# Type with a Swipe: A Gesture Keyboard
