@@ -21,7 +21,7 @@ centroids_Y = [85, 120, 120, 85, 50, 85, 85, 85, 50, 85, 85, 85, 120, 120, 50, 5
 # Pre-process the dictionary and get templates of 10000 words
 words, probabilities = [], {}
 template_points_X, template_points_Y = [], []
-file = open('words_10000.txt')
+file = open('src/words_10000.txt')
 content = file.read()
 file.close()
 content = content.split('\n')
